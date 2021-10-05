@@ -14,8 +14,8 @@
     border-radius: 50%;}
   
   #mickey-mouse {
-  display: inline-block;
-  min-width: 324px;}
+  width:0px;
+height:0px}
   
   #right-ear, #left-ear {
     width: 120px;
