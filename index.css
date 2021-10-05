@@ -14,8 +14,8 @@
     border-radius: 50%;}
   
   #mickey-mouse {
-  padding-left: 500px;
-padding-top: 1000px}
+    margin: 20% auto;
+    }
   
   #right-ear, #left-ear {
     width: 120px;
